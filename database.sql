@@ -580,3 +580,5 @@ ALTER TABLE ONLY public.users_outfits
 -- PostgreSQL database dump complete
 --
 
+INSERT INTO public.admin (id, username, password)
+VALUES (1, 'admin', 'admin123');

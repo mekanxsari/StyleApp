@@ -5,7 +5,7 @@ const app = express();
 const PORT = 3000;
 
 app.use(cors({
-  origin: ['http://185.172.129.155:5173', 'http://localhost:5173'],
+  origin: ['http://ipadress:5173', 'http://localhost:5173'],
   credentials: true
 }));
 
@@ -15,5 +15,5 @@ const apiRouter = require('./routes');
 app.use('/api', apiRouter);
 
 app.listen(PORT, () => {
-  console.log(`✅ Backend running`);
+  console.log(`Backend running`);
 });
