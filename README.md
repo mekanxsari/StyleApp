@@ -9,16 +9,16 @@ Designed to merge fashion with convenience — right inside Telegram.
 
 ---
 
-## ✨ Features
-- 👗 Create and save outfit capsules  
-- 🛍️ Add and manage clothing items  
-- 🔄 Mix and match outfits with ease  
-- 👥 Share your style collections  
-- 🔐 Secure and personalized experience  
+## Features
+-  Create and save outfit capsules  
+-  Add and manage clothing items  
+-  Mix and match outfits with ease  
+-  Share your style collections  
+-  Secure and personalized experience  
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - **Node.js** (v16+ recommended)  
