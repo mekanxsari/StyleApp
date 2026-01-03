@@ -2,7 +2,7 @@
 
 **Your personal stylist now as a Telegram Mini App.**
 
-![StyleApp](https://i.ibb.co/nq7fR8B4/StyleApp.png)
+![StyleApp](https://i.imgur.com/lv2rZn4.jpeg)
 
 StyleApp helps you discover, organize, and share outfits effortlessly.  
 Designed to merge fashion with convenience — right inside Telegram.  
